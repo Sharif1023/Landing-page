@@ -31,7 +31,7 @@ const links = [
   },
    {
     title: "E-store ",
-    image: "IImage/simple.png",
+    image: "Image/simple.png",
     description: "Clean and modern ecommerce landing page designed to showcase products and drive online purchases.",
     url: "https://sharif1023.github.io/Landing-Page-1/",
     tags: ["ecommerce", "fashion"],
