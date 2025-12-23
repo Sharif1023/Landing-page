@@ -41,9 +41,18 @@ const links = [
    {
     title: "Apple e-shop",
     image: "Image/apple.png",
-    description: "Modern ecommerce landing page for premium t-shirts.",
+    description: "Modern product promo landing page for showcasing a premium mobile collection with a strong shop-focused call-to-action.",
     url: "https://sharif1023.github.io/LP_apple/",
     tags: ["Apple", "fashion"],
+    // optional:
+    // purpose: "Ecommerce"
+  },
+  {
+    title: "Documents Hub",
+    image: "Image/doc.png",
+    description: "Clean document hub landing page for easy file browsing and access.",
+    url: "dochub18.netlify.app",
+    tags: ["Documents", "PDF"],
     // optional:
     // purpose: "Ecommerce"
   },
